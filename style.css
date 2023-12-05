@@ -1,0 +1,28 @@
+h1{
+    padding: auto;
+    text-align: center;
+}
+
+p{
+    padding: auto;
+    text-align: center; 
+}
+
+img:hover{
+    opacity: 0.5;
+    background-color: antiquewhite;
+}
+
+
+
+ul li{
+    list-style: none;
+}
+
+li{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
